@@ -21,4 +21,7 @@ The following flow chart describes the algorithm behind this system's working:-
 
 
 ![Flow-chart](https://github.com/Vishesh-dd4723/Productathon/blob/master/Images/Workflow.png)
+
+## Circuit
+
 ![Circuit](https://github.com/Vishesh-dd4723/Productathon/blob/master/Images/Circuit.png)
